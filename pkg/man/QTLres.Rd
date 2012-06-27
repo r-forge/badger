@@ -1,6 +1,5 @@
 \name{QTLres}
 \alias{QTLres}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Function to assess the performance of the eQTLs that BADGER uses
 }
