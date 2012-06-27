@@ -5,7 +5,7 @@
 Example expression matrix for the BADGER package.
 }
 \description{
-A matrix of 420 expression values from Illumina WG6-V1 beadchip for 422 arrays from 90 individuals.
+A numeric matrix of 420 expression values from Illumina WG6-V1 beadchip for 422 arrays from 90 individuals.
 }
 \usage{data(exampleEXP)}
 \format{
