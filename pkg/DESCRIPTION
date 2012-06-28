@@ -3,7 +3,7 @@ Type: Package
 Title: A package for identifying sample mixups in combined expression and genotyping studies.
 Version: 1.0
 Date: 2012-06-21
-Author: Lynch AG
+Author: Lynch AG, Dunning MJ
 Maintainer: AG Lynch <andy.lynch@cancer.org.uk>
 Description: BADGER takes a set of expression array data and one of genotype array data and, given information on how sample mappings were intended to be, determines the apparent relationships  between genotype and expression before predicting genotypes for each expression array. From these predictions, mismatches can be identified.
 License: GPL-2
